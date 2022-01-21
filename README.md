@@ -53,7 +53,8 @@
 
 *  Logged GDP per capita and Ladder score
 
-![image](https://user-images.githubusercontent.com/71708747/150455575-ff9f8eea-cfb4-4a8c-a2bc-5ca7832b17e4.png)
+![Screenshot from 2022-01-21 11-11-46 (1)](https://user-images.githubusercontent.com/71708747/150456341-e628b4c4-df0d-4dbb-b923-6de4ec4d8e5b.png)
+
 
 1. The scatter plot shows that a region with a high logged GDP per capita has a higher Ladder score.
 2. `Western Europe` has the highest logged GDP per capita and ladder score, while `Sub-Saharan Africa` has the lowest logged GDP per capita and ladder score.
@@ -70,7 +71,8 @@
 
 * Healthy life expectancy & Perceptions of corruption
 
-* ![image](https://user-images.githubusercontent.com/71708747/150455789-1227b111-22a8-4891-8719-1c114d2bb29e.png)
+![Screenshot from 2022-01-21 11-12-04](https://user-images.githubusercontent.com/71708747/150456396-e49d6477-c8f8-4161-aa54-d3ba15e48ee4.png)
+
 
 1. First, on the left side, the plot shows that the higher the value of `healthy life expectancy`, the higher the `ladder score`.
 2. while on the right side: plot shows that the lower absence of corruption (`preceptions_of_corruption`), `ladder score` will decrease.
@@ -80,7 +82,8 @@
 
 * Happiness Country by Health Life Expectancy
 
-![image](https://user-images.githubusercontent.com/71708747/150455987-d6c82311-76d6-417c-b477-e09cfafa1c96.png)
+![Screenshot from 2022-01-21 11-12-27](https://user-images.githubusercontent.com/71708747/150456453-c23d494c-e113-4acd-b33b-460ddf51e60e.png)
+
 
 1. Pie chart shows that the country in `Western europe` has the higher healthy life expectancy
 2. while country in `Sub-saharan africa` has the lowest
@@ -88,3 +91,16 @@
 
 
  
+## Conclusion : *What makes the world’s happiest countries so happy?*
+
+* Western Europe has a very high ladder score(with an average of 69%).
+* The plot above shows that the country with a high ladder score has a high logged GDP per capita. So it means that the high logged GDP per capita, the high Ladder score.
+* Social support refers to assistance or support provided by members of social networks to an individual. North America & ANZ is the region with very high social support.
+* Singapore and Hongkong have a very high healthy life expectancy, the same as each country in western Europe.
+* The pie chart shows that; Countries with bright colors have a high life expectancy and social support values, while countries with darker colors have low scores.
+* Southeast Asia has a very high Freedom score. It means that most Southeast Asia is satisfied with their freedom to choose what they do with their lives.
+* Southeast Asia also has a very high Generosity compared to other regions.
+ * Generosity has a low correlation with the other variables.
+ * A country with a high ladder score and healthy life expectancy mostly has a high Perception of corruption.it means that happy countries have fewer corrupt people.
+
+
