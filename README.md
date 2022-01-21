@@ -53,7 +53,38 @@
 
 *  Logged GDP per capita and Ladder score
 
+![image](https://user-images.githubusercontent.com/71708747/150455575-ff9f8eea-cfb4-4a8c-a2bc-5ca7832b17e4.png)
 
+1. The scatter plot shows that a region with a high logged GDP per capita has a higher Ladder score.
+2. `Western Europe` has the highest logged GDP per capita and ladder score, while `Sub-Saharan Africa` has the lowest logged GDP per capita and ladder score.
+
+
+* Logged GDP per capita & Healthy life expectancy 
+
+![image](https://user-images.githubusercontent.com/71708747/150455716-94dc494c-6bd6-4095-8b43-d2403b9183ce.png)
+
+1. Notice that a region with a high logged GDP per capita has a higher Healthy life expectancy.
+2. `Western Europe` has the highest logged GDP per capita and healthy life expectancy, while `Sub-Saharan Africa` has the lowest.
+
+
+
+* Healthy life expectancy & Perceptions of corruption
+
+* ![image](https://user-images.githubusercontent.com/71708747/150455789-1227b111-22a8-4891-8719-1c114d2bb29e.png)
+
+1. First, on the left side, the plot shows that the higher the value of `healthy life expectancy`, the higher the `ladder score`.
+2. while on the right side: plot shows that the lower absence of corruption (`preceptions_of_corruption`), `ladder score` will decrease.
+3. so, a region with a high `healthy life expectancy` and `preceptions_of_corruption` has a high `Ladder score`.
+
+
+
+* Happiness Country by Health Life Expectancy
+
+![image](https://user-images.githubusercontent.com/71708747/150455987-d6c82311-76d6-417c-b477-e09cfafa1c96.png)
+
+1. Pie chart shows that the country in `Western europe` has the higher healthy life expectancy
+2. while country in `Sub-saharan africa` has the lowest
+3. in the other region also has the lowest healthy life expectancy like Haiti, Yemen, Afganistan etc.
 
 
  
