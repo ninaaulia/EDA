@@ -104,3 +104,5 @@
  * A country with a high ladder score and healthy life expectancy mostly has a high Perception of corruption.it means that happy countries have fewer corrupt people.
 
 
+Based on the analysis results, people in a country will be happy if they have a high logged GDP per capita, social support, healthy life expectancy. Also, If a country has a trim level of corruption ( high Perceptions of corruptions) and the community has a high level of freedom, then the community will be happier.
+
